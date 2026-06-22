@@ -1,0 +1,14 @@
+# Dati pesanti scaricati da Google Drive (non versionare)
+processed_data/
+*.h5
+*.npy
+*.pkl
+*.pth
+
+# File di lavoro temporanei
+_outline.txt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
